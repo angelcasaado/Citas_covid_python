@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_get_vaccine_date_tests.TestGetVaccineDate-20220628110854" tests="6" file="test_get_vaccine_date_tests.py" time="0.639" timestamp="2022-06-28T11:08:56" failures="0" errors="0" skipped="0">
+	<testcase classname="test_get_vaccine_date_tests.TestGetVaccineDate" name="test_get_vaccine_date_date_no_ok_parameter" time="0.282" timestamp="2022-06-28T11:08:55"/>
+	<testcase classname="test_get_vaccine_date_tests.TestGetVaccineDate" name="test_get_vaccine_date_no_ok" time="0.009" timestamp="2022-06-28T11:08:55"/>
+	<testcase classname="test_get_vaccine_date_tests.TestGetVaccineDate" name="test_get_vaccine_date_no_ok_data_manipulated" time="0.017" timestamp="2022-06-28T11:08:55"/>
+	<testcase classname="test_get_vaccine_date_tests.TestGetVaccineDate" name="test_get_vaccine_date_no_ok_no_quotes" time="0.009" timestamp="2022-06-28T11:08:56"/>
+	<testcase classname="test_get_vaccine_date_tests.TestGetVaccineDate" name="test_get_vaccine_date_no_ok_parameter" time="0.308" timestamp="2022-06-28T11:08:56"/>
+	<testcase classname="test_get_vaccine_date_tests.TestGetVaccineDate" name="test_get_vaccine_date_ok" time="0.015" timestamp="2022-06-28T11:08:56"/>
+</testsuite>

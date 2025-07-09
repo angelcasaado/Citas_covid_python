@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_cancel_appointment_tests.TestCancelAppointment-20220628110907" tests="9" file="test_cancel_appointment_tests.py" time="0.513" timestamp="2022-06-28T11:09:08" failures="0" errors="0" skipped="0">
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_final_ok" time="0.206" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_invalid_cancellation" time="0.033" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_invalid_date_signature_already_cancelled" time="0.039" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_invalid_date_signature_expired_today" time="0.033" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_invalid_date_signature_expired_tomorrow" time="0.033" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_invalid_reason" time="0.032" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_invalid_regex" time="0.030" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_cancel_temporal_ok" time="0.035" timestamp="2022-06-28T11:09:08"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_parametrized_cases_tests" time="0.072" timestamp="2022-06-28T11:09:08"/>
+</testsuite>

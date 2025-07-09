@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_vaccine_patient_tests.TestVaccinePatient-20220628110907" tests="8" file="test_vaccine_patient_tests.py" time="0.441" timestamp="2022-06-28T11:09:20" failures="0" errors="0" skipped="1">
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_random" time="0.073" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_already_cancelled" time="0.078" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_bad_date_signature" time="0.059" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_no_date" time="0.067" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_not_found_date_signature" time="0.062" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_ok" time="0.069" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_store_date_is_empty" time="0.030" timestamp="2022-06-28T11:09:20"/>
+	<testcase classname="test_vaccine_patient_tests.TestVaccinePatient" name="test_vaccine_patient_no_store_date" time="0.004" timestamp="2022-06-28T11:09:20">
+		<skipped type="skip" message="This exception won't be raised after the refactoring process"/>
+	</testcase>
+</testsuite>
